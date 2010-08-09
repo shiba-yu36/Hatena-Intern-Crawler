@@ -1,0 +1,3 @@
+[submodule "modules/p5-Data-PSQueue"]
+	path = modules/p5-Data-PSQueue
+	url = http://github.com/maoe/p5-Data-PSQueue.git
